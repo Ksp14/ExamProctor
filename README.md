@@ -106,3 +106,7 @@ Every violation automatically saves:
 - mediapipe is NOT required — face/eye detection uses OpenCV Haar cascades
 - YOLOv8n model (`yolov8n.pt`) downloads automatically on first run (~6MB)
 - TensorFlow 2.15 is required for deepface compatibility if you choose to enable it
+
+
+
+Changes are made here
